@@ -1,0 +1,22 @@
+.odd{
+    background-color: rgb(236, 166, 166);
+    font-family: verdana,"DejaVu sans", sans-serif;
+}
+
+
+#nodd{
+color: rgb(0, 0, 255);
+font-size: 36px;
+
+}
+
+#nod{
+
+    background-color: rgb(143, 244, 143);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.odd.var{
+    font-size: 24px;
+}
